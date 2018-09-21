@@ -7,12 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a master student studying computer science and holding a GSR/RA position in [Prof. Arun Kumar's ADALab](https://adalabucsd.github.io/) at UCSD. My research interest lays on the machine learning systems, especially related to computer vision and deep learning.
+I am a master student studying computer science and holding a GSR/RA position in [Prof. Arun Kumar's ADALab](https://adalabucsd.github.io/) at UCSD. My research interests lie in the field of machine learning systems, especially systems related to computer vision, deep learning and the so-called Big Data. 
+<!-- Currently I am working on a unified system for zero-shot recognition. -->
 
+I received my BS in theoretical physics from Nankai University(China) in 2016, when I was still fascinated with quantum gravity, black holes and neutrinos. 
 
-
-
-A data-driven personal website
+<!-- Research -->
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -49,4 +50,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

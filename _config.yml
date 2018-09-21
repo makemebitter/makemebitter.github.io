@@ -13,7 +13,7 @@ name                     : &name "Yuhao Zhang"
 description              : &description "personal description"
 url                      : https://yhzhang.info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "makemebitter/makemebitter.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,10 +82,12 @@ author:
   name             : "Yuhao Zhang"
   avatar           : "profile.png"
   bio              : "MS in CS and working as RA at UCSD"
-  location         : "La Jolla"
+  location         : "3230 EBU3B
+  9500 Gilman Dr.
+  La Jolla 92093-0404"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "yuz870 at eng dot ucsd dot edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yuhao-zhang-832212149/"
   orcid            : " https://orcid.org/0000-0003-3219-2476"
   pinterest        :
   soundcloud       :
@@ -170,50 +172,50 @@ kramdown:
 
 # Collections
 collections:
-  # teaching:
-  #   output: false
-  #   permalink: /:collection/:path/
+  teaching:
+    output: false
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  # portfolio:
-  #   output: true
-  #   permalink: /:collection/:path/
-  # talks:
-  #   output: true
-  #   permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
 defaults:
-  # _posts
-  # - scope:
-  #     path: ""
-  #     type: posts
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     read_time: true
-  #     comments: true
-  #     share: true
-  #     related: true
-  # _pages
+  _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-  # _teaching
-  # - scope:
-  #     path: ""
-  #     type: teaching
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
-  # _publications
+  _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  _publications
   - scope:
       path: ""
       type: publications
@@ -222,23 +224,23 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  # - scope:
-  #     path: ""
-  #     type: portfolio
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comment: true
-  # _talks
-  # - scope:
-  #     path: ""
-  #     type: talks
-  #   values:
-  #     layout: talk
-  #     author_profile: true
-  #     share: true
+  _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
