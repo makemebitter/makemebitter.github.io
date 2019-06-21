@@ -9,8 +9,8 @@ redirect_from:
 ---
 I am a PhD student studying computer science in [Prof. Arun Kumar's ADALab](https://adalabucsd.github.io/) at UCSD. My research interests lie in machine learning systems, especially systems related to computer vision, deep learning and the so-called Big Data. 
 
-Currently I am seeking opportunities for summer internship 2019. [My Resume](http://yhzhang.info/files/Resume-Yuhao-UCSD.pdf)
-<!-- Currently I am working on a unified system for zero-shot recognition. -->
+<!-- Currently I am seeking opportunities for summer internship 2019. [My Resume](http://yhzhang.info/files/Resume-Yuhao-UCSD.pdf)
+ --><!-- Currently I am working on a unified system for zero-shot recognition. -->
 
 I received my BS in theoretical physics from Nankai University(China) in 2016, when I was still fascinated with quantum gravity, black holes and neutrinos. 
 
