@@ -11,6 +11,8 @@ I am a Ph.D. student studying computer science at [Prof. Arun Kumar's ADALab](ht
 
 I received my BS in theoretical physics from Nankai University (China) in 2016 when I was still fascinated with quantum gravity, black holes, and neutrinos. 
 
+I'm open to opportunities for summer internships. You can find my resume at [Link](https://github.com/makemebitter/yuhao-resume/raw/master/Resume-Yuhao-UCSD.pdf).
+
 <!-- Currently I am seeking opportunities for summer internship 2020. [My Resume](https://github.com/makemebitter/yuhao-resume/raw/master/Resume-Yuhao-UCSD.pdf) -->
 
 
