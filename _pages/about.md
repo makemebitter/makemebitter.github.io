@@ -7,9 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student studying computer science at [Prof. Arun Kumar's ADALab](https://adalabucsd.github.io/) in UCSD. My research interests lie in machine learning systems, especially systems related to computer vision, deep learning, and the so-called Big Data. 
+I am a Ph.D. student studying computer science at [Prof. Arun Kumar's ADALab](https://adalabucsd.github.io/) in UCSD. I am generally interested in machine learning systems, especially systems related to computer vision, deep learning, and the so-called Big Data. 
 
 I received my BS in theoretical physics from Nankai University (China) in 2016 when I was still fascinated with quantum gravity, black holes, and neutrinos. 
+
+My Ph.D. work lies within machine learning systems, including systems powered by applied ML that enables new applications and systems designed for ML to make data science easier and faster. On the first front, I worked on video querying systems for object detection and classification with computer vision and database techniques. On the second front, I have been working on a system that can expedite distributed deep learning by 3x-10x compared to Horovod and TensorFlow Parameter Server. I have also worked a lot on bridging data systems (such as Apache Spark, Distributed databases, etc.) with distributed deep learning systems. Some of these works have already been incorporated into the Apache MADlib project and adopted&shipped by VMware. I have also presented the work at the Spark-AI summit 2020.
 
 I'm open to opportunities for summer internships. You can find my resume at [Link](https://github.com/makemebitter/yuhao-resume/raw/master/Resume-Yuhao-UCSD.pdf).
 
