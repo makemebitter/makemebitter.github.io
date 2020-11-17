@@ -15,7 +15,7 @@ My Ph.D. work lies within the field of machine learning systems, including syste
 
 I'm also working a lot on bridging data systems (such as Apache Spark, Distributed databases, etc.) with distributed deep learning systems. Some of these works have already been incorporated into the [Apache MADlib](https://madlib.apache.org/) project and adopted&shipped by VMware. In addition to academic conference talks, I also presented the work at the [Spark+AI summit 2020](https://databricks.com/session_na20/resource-efficient-deep-learning-model-selection-on-apache-spark).
 
-I'm open to opportunities for summer internships. You can find my resume at [Link](https://github.com/makemebitter/yuhao-resume/raw/master/Resume-Yuhao-UCSD.pdf).
+I'm always open to opportunities for summer internships. You can find my short Resume [here](https://github.com/makemebitter/yuhao-resume/raw/master/Resume-Yuhao-UCSD.pdf). If you prefer a longer version, my Curriculum Vitae can be found [here](https://github.com/makemebitter/yuhao-cv/raw/master/CV-Yuhao-UCSD.pdf)
 
 <!-- Currently I am seeking opportunities for summer internship 2020. [My Resume](https://github.com/makemebitter/yuhao-resume/raw/master/Resume-Yuhao-UCSD.pdf) -->
 
