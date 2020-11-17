@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm a Ph.D. student studying computer science at [Prof. Arun Kumar's ADALab](https://adalabucsd.github.io/) in UCSD. I am generally interested in machine learning systems, especially systems related to computer vision, deep learning, and the so-called Big Data. 
 
-I received my BS in theoretical physics from Nankai University (China) in 2016 when I was still fascinated with quantum gravity, black holes, and neutrinos. 
+I received my BS in theoretical physics from Nankai University (China) in 2016 when I was still fascinated with quantum gravity, black holes, and the [ultimate truth of universe](https://en.wikipedia.org/wiki/Theory_of_everything). 
 
 My Ph.D. work lies within the field of machine learning systems, including systems powered by applied ML that enable novel applications, and systems designed for ML to make data science easier and faster. On the first front, I worked on a video querying [system](https://adalabucsd.github.io/panorama.html) for object detection and classification with computer vision and database techniques. On the second front, I have been working on a [system](https://adalabucsd.github.io/cerebro.html) that can expedite distributed deep learning by 3x-10x compared to Horovod and TensorFlow Parameter Server. 
 
