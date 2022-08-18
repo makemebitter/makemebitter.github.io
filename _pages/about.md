@@ -9,13 +9,20 @@ redirect_from:
 ---
 I'm a Ph.D. student studying computer science at [Prof. Arun Kumar's ADALab](https://adalabucsd.github.io/) in UCSD. I am generally interested in machine learning systems, especially systems related to computer vision, deep learning, and the so-called Big Data. 
 
+My research is primarily on machine learning systems, including systems powered by applied ML that enable novel applications and systems designed for ML to make data science easier and faster. Past and ongoing projects include systems for: distributed deep learning model selection and training, distributed in-database deep learning, distributed large-scale graph neural network training, and video analytics and querying. Here is my [Curriculum Vitae](https://github.com/makemebitter/yuhao-cv/raw/master/CV-Yuhao-UCSD.pdf).
+
 I received my BS in theoretical physics from Nankai University (China) in 2016 when I was still fascinated with quantum gravity, black holes, and the [ultimate truth of universe](https://en.wikipedia.org/wiki/Theory_of_everything). 
 
-My Ph.D. work lies within the field of machine learning systems, including systems powered by applied ML that enable novel applications, and systems designed for ML to make data science easier and faster. On the first front, I worked on a video querying [Panorama system](https://adalabucsd.github.io/panorama.html) for object detection and classification with computer vision and database techniques. On the second front, I have been working on a project [Cerebro](https://adalabucsd.github.io/cerebro.html) that can expedite distributed deep learning by 3x-10x compared to Horovod and TensorFlow Parameter Server. 
 
-I'm also working a lot on bridging data systems (such as Apache Spark, Distributed databases, etc.) with distributed deep learning systems. Some of these works have already been incorporated into the [Apache MADlib](https://madlib.apache.org/) project and adopted&shipped by VMware. In addition to academic conference talks, I also presented the work at the [Spark+AI summit 2020](https://databricks.com/session_na20/resource-efficient-deep-learning-model-selection-on-apache-spark).
 
-I'm always open to opportunities for summer internships. Here is my [Curriculum Vitae](https://github.com/makemebitter/yuhao-cv/raw/master/CV-Yuhao-UCSD.pdf).
+
+
+
+<!-- On the first front, I worked on a video querying [Panorama system](https://adalabucsd.github.io/panorama.html) for object detection and classification with computer vision and database techniques. On the second front, I have been working on a project [Cerebro](https://adalabucsd.github.io/cerebro.html) that can expedite distributed deep learning by 3x-10x compared to Horovod and TensorFlow Parameter Server.  -->
+
+<!-- I'm also working a lot on bridging data systems (such as Apache Spark, Distributed databases, etc.) with distributed deep learning systems. Some of these works have already been incorporated into the [Apache MADlib](https://madlib.apache.org/) project and adopted&shipped by VMware. In addition to academic conference talks, I also presented the work at the [Spark+AI summit 2020](https://databricks.com/session_na20/resource-efficient-deep-learning-model-selection-on-apache-spark).
+
+I'm always open to opportunities for summer internships.  -->
 
 <!-- short [Resume](https://github.com/makemebitter/yuhao-resume/raw/master/Resume-Yuhao-UCSD.pdf). If you prefer a longer version, I also have a -->
 <!-- Currently I am seeking opportunities for summer internship 2020. [My Resume](https://github.com/makemebitter/yuhao-resume/raw/master/Resume-Yuhao-UCSD.pdf) -->
