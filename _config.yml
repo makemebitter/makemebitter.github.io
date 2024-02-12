@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yuhao Zhang"
   avatar           : "bio-photo.jpg"
-  bio              : "Ph.D. Student at UCSD"
-  location         : "3230 EBU3B"
+  # bio              : "Ph.D. Student at UCSD"
+  # location         : "3230 EBU3B"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=zjnOU9IAAAAJ"
-  email            : "yuz870 at eng dot ucsd dot edu"
+  email            : "yhzhang1994 at gmail dot com"
   uri              :
   bitbucket        :
   codepen          :

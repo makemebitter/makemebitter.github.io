@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Ph.D. student studying computer science at [Prof. Arun Kumar's ADALab](https://adalabucsd.github.io/) in UCSD. I am generally interested in machine learning systems, especially systems related to computer vision, deep learning, and the so-called Big Data. 
+I joined Databricks in December 2023, working on applied AI/ML for systems, including automation and performance optimizations. Here is my [Curriculum Vitae](https://github.com/makemebitter/yuhao-cv/raw/master/CV-Yuhao-UCSD.pdf).
 
-My research is primarily on machine learning systems, including systems powered by applied ML that enable novel applications and systems designed for ML to make data science easier and faster. Past and ongoing projects include systems for: distributed deep learning model selection and training, distributed in-database deep learning, distributed large-scale graph neural network training, and video analytics and querying. Here is my [Curriculum Vitae](https://github.com/makemebitter/yuhao-cv/raw/master/CV-Yuhao-UCSD.pdf).
+I got my Ph.D. in computer science from [Prof. Arun Kumar's ADALab](https://adalabucsd.github.io/) at UCSD in 2023. My research was primarily on machine learning systems, including systems powered by applied ML that enable novel applications and systems designed for ML to make data science easier and faster. Past projects include systems for: distributed deep learning model selection and training, distributed in-database deep learning, distributed large-scale graph neural network training, and video analytics and querying. 
 
-I received my BS in theoretical physics from Nankai University (China) in 2016 when I was still fascinated with quantum gravity, black holes, and the [ultimate truth of universe](https://en.wikipedia.org/wiki/Theory_of_everything). 
+I received my BS in theoretical physics from Nankai University (China) in 2016 when I was still fascinated with quantum gravity, black holes, and the [ultimate truth of the universe](https://en.wikipedia.org/wiki/Theory_of_everything). 
 
 
 
