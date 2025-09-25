@@ -14,7 +14,7 @@ I received my Ph.D. in Computer Science from [Prof. Arun Kumar's ADALab](https:/
 
 These PhD projects have shipped and influenced industry. Cerebro/Cerebro-DS were open-sourced, incorporated into Apache MADlib, and integrated with VMware Greenplum, enabling external teams (including UCSD public-health researchers) and appearing as third-party tools for Databricks users. These work also helped inspire RapidFire AI, a startup founded by my PhD advisor centered on these ideas.
 
-I received my BS in theoretical physics from Nankai University (China) in 2016 when I was still fascinated with quantum gravity, black holes, the ultimate truth of the universe, and published two papers from that work. 
+I received my B.S. in theoretical physics from Nankai University (China) in 2016. I was fascinated by quantum gravity, black holes, and the search for the ‘ultimate truth’-and published two papers from that work.
 
 
 
